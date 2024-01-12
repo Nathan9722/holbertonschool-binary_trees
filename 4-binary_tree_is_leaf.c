@@ -2,7 +2,6 @@
 
 /**
  * binary_tree_is_leaf - checks if a node is a leaf
- * vérifie si un nœud est une feuille
  * @node: pointer to the node to check
  * Return: 1 if node is a leaf, otherwise 0
  */
